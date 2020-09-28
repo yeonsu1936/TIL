@@ -1,4 +1,4 @@
-,ID,이름,성별,birthYear,birthDate,연락처,user,알림,위치,UID,가입일,업데이트일,회원 탈퇴일,최근 접속일,닉네임,프로필 사진,프로필 썸네일 사진,이메일,연령대
+﻿num,ID,이름,성별,birthYear,birthDate,연락처,user,알림,위치,UID,가입일,업데이트일,회원 탈퇴일,최근 접속일,닉네임,프로필 사진,프로필 썸네일 사진,이메일,연령대
 0,83402396,박준,남,1962,0128,010-9166-2352,False,False,"(37.5047072, 127.0485641)",HVJ5OUJC-UNQJ-1GGV-5RWL-BEOCJPKD4AZG,2020-07-29,2020-02-21,2019-04-19,2020-04-12,Null,Null,Null,swsjwuz4842@gmail.com,30~39
 1,16363338,송수신,여,1990,1229,010-6083-3989,True,True,"(37.5047072, 127.0485641)",LH2MBQQY-NWR7-UBMY-LWFN-HOEZSJ6D8MU0,2018-03-10,2019-02-20,Null,Null,Null,Null,Null,ntolkci9292@gmail.com,30~39
 2,8800158,오혜제,남,1987,0412,010-4642-7547,False,True,"(37.5047072, 127.0485641)",JBAP6AGD-VB40-272A-IA4G-WUWT17IUT5JB,2017-01-10,2020-08-16,2020-04-12,2019-08-28,Null,Null,Null,sejmiru5719@gmail.com,30~39
